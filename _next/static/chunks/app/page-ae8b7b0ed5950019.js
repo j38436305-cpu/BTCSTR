@@ -40,12 +40,12 @@
                   className: "flex flex-wrap items-center gap-3",
                   children: [
                     (0, i.jsx)(d(), {
-                      href: "https://x.com/dogestroneth",
+                      href: "https://x.com/bitstrX",
                       className: "hover:underline underline-offset-4",
                       children: "X",
                     }),
                     (0, i.jsx)(d(), {
-                      href: "https://x.com/dogestroneth",
+                      href: "https://t.me/bitstrgroup",
                       className: "hover:underline underline-offset-4",
                       children: "Telegram",
                     }),

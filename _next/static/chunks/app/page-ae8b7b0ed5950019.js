@@ -72,7 +72,7 @@
       async function f() {
         try {
           let e = "https://1rpc.io/eth",
-            t = "0x44F5fD30d04Fc3F6B0bd14100e506A9843f19E12";
+            t = "0xcomingsoon";
           if (!e || !t) return null;
           let s = new x.FR(e),
             i = new m.NZ(t, p, s),
@@ -239,7 +239,7 @@
                           className:
                             "px-4 py-2 rounded-md hover:bg-accent/10 text-sm text-black",
                           style: {border:"2px solid rgba(0,0,0,.4)"},
-                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x44F5fD30d04Fc3F6B0bd14100e506A9843f19E12",
+                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
                           children: "Trade BTCSTR",
                         }),
                         (0, i.jsx)(o.pK, {}),
@@ -254,7 +254,7 @@
                   children: [
                     (0, i.jsx)("a", {
                       href: "https://etherscan.io/address/".concat(
-                        "0x44F5fD30d04Fc3F6B0bd14100e506A9843f19E12"
+                        "0xcomingsoon"
                       ),
                       target: "_blank",
                       rel: "noopener noreferrer",
@@ -833,7 +833,7 @@
             s &&
               l &&
               n({
-                address: "0x44F5fD30d04Fc3F6B0bd14100e506A9843f19E12",
+                address: "0xcomingsoon",
                 abi: j,
                 functionName: "sellPepe",
                 args: [BigInt(t)],

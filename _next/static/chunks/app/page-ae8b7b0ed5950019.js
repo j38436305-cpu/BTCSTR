@@ -365,7 +365,7 @@
                                       (0, i.jsx)("div", {
                                         className:
                                           "text-xs uppercase tracking-wide text-black/70",
-                                        children: "DOGE",
+                                        children: "BITSTR",
                                       }),
                                       (0, i.jsx)("div", {
                                         className:
